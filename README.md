@@ -3,7 +3,7 @@
 </div>
 
 # My name is Olga Shuboderova-Baklan
-I'm QA Authomation Engeener with 3+ years experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"/></div>
+I'm Software QA Authomation Engeener with 3+ years of experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"/></div>
 
 <div align="center">
   <img src= https://st.depositphotos.com/1001877/2742/i/600/depositphotos_27424459-stock-photo-e-learning-education-or-internet.jpg width="1000" height="600"/>
